@@ -1,0 +1,32 @@
+div.reportMain{
+    width: 1250px;
+    text-align: center;
+    margin: auto;
+}
+.chart {
+        width: 300px;
+        height: 200px;
+        border: 1px solid #124ef2d1;
+        position: relative; 
+        margin: auto;
+       
+    }
+
+    .bar {
+        background-color: steelblue;
+        position: absolute;
+        bottom: 0;
+       
+    }
+    table{
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+    }
+
+    .theader{
+background-color: aquamarine;
+    }
+  .tdata{
+    background-color: aqua;
+  }

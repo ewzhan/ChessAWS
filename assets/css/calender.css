@@ -1,0 +1,25 @@
+div.calender{
+    width: 1200px;
+    margin: auto;
+    border: 1px solid black;
+}
+
+div.calenderRow{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(7,auto);
+}
+
+div.calenderRow div.calenderHeader, div.calenderRow div.calenderBody{
+    width: 100%;
+    margin: auto;
+    border: 1px solid black;
+}
+
+div.calenderRow div.calenderHeader{
+    height: 60px;
+}
+
+div.calenderRow div.calenderBody{
+    height: 100px;
+}

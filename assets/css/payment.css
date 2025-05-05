@@ -1,0 +1,105 @@
+#paymentPage{
+    position: absolute !important;
+    background-color: rgba(0, 0, 0, 0.3);
+    height: 3000px;
+    width: 100%;
+    display: none;
+}
+#paymentDetail{
+    background-color: white;
+    width: 700px;
+    height: 500px;
+    margin: 100px 425px;
+}
+#payment-Table{
+    background-color: rgba(0, 0, 0, 0.1);
+    margin: -20px 25px;
+    height: 300px;
+    width: 650px;
+}
+#buttonPay{
+    float:right;
+    padding:30px;
+    padding-top: 80px;
+}
+
+h1{text-align: center;}
+#cont{
+    width: 800px;
+    height: 1000px;
+    margin: 20px auto;
+}
+#ticketReceipt{
+    border: 1px solid rgba(0, 0, 0, 0.2);
+
+}
+#receiptDate{
+    margin-left:10px ;
+
+}
+#receiptDetail{
+    margin: 20px;
+}
+.ticketDetails{
+    margin: auto;
+}
+#qrCheck-in{
+    margin-top: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+
+
+}
+#button{
+    margin-top: 10px;float: right;height: 40px;width: 180px;
+}
+.button{
+    background-color: orangered;
+    color: white;
+    border-radius: 180px;
+}
+
+.button:hover{
+    color: white;
+}
+
+.kgink{
+    border: 1px solid black;
+    padding: 8px 30px;
+    color: white;
+}
+
+h1{text-align: center;}
+#cont{
+    width: 800px;
+    height: 1000px;
+    margin: 20px auto;
+}
+#ticketReceipt{
+    border: 1px solid rgba(0, 0, 0, 0.2);
+
+}
+#receiptDate{
+    margin-left:10px ;
+
+}
+#receiptDetail{
+    margin: 20px;
+}
+.ticketDetails{
+    margin: auto;
+}
+#qrCheck-in{
+    margin-top: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+
+
+}
+#button{
+    margin-top: 10px;float: right;height: 40px;width: 180px;
+}
+.button{
+    background-color: orangered;color: white;border-radius: 180px;
+}
+.button:hover{
+    background-color: rgba(255, 68, 0, 0.8);
+}

@@ -1,0 +1,40 @@
+.posterImg{
+    width: 435px;
+    height: 650px;
+}
+
+.setWidth{
+    width: 20%;
+}
+
+.setWidth2{
+    width: 75%;
+}
+
+.inputWitdh{
+    width: 100%;      
+}
+      
+.all{
+    display: flex;
+    width: 100%;    
+}
+     
+.left{
+    width: 160%;    
+}
+      
+.right img{
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.addEventBtn{
+    height: 50px;
+    width: 200px;
+    border: none;
+    border-radius: 50px;
+    font-size: 20px;
+    background-color: rgba(235,93,30,0.7);
+    color: #212529;
+}
