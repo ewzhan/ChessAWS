@@ -66,7 +66,7 @@
             die("Connect Failed". $con -> connect_error);
         }
         
-        $sql = "SELECT * FROM Events";
+        $sql = "SELECT * FROM `events`";
         
         $result = $con -> query($sql);
         
