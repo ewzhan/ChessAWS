@@ -4,10 +4,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHP.php to edit this template
  */
-define("DB_HOST","localhost");
-define("DB_USER","root");
-define("DB_PASS","");
-define("DB_NAME","chess");
+define("DB_HOST", "php-db.cgghs0khunws.us-east-1.rds.amazonaws.com");
+define("DB_USER", "admin");
+define("DB_PASS", "asspassword");
+define("DB_NAME", "chess");
 if (isset($_GET['ticketID'])) {
     
     $ticketID = $_GET['ticketID'];
